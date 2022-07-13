@@ -6,6 +6,15 @@
   font-family: Montserrat, sans-serif;
 }
 
+.jumbotran {
+  background-color: #673ab7;
+  background: linear-gradient(to right, #FF3361, #673ab7);
+  color: #fff;
+  padding: 50px 25px;
+  font-family: Montserrat, sans-serif;
+}
+
+
 body {
   font: 400 15px Lato, sans-serif;
   line-height: 1.8;
@@ -120,6 +129,9 @@ body {
   margin: 15px 0;
   background-color: #5e35b1;
   color: #fff;
+}
+.format{
+  text-align: center;
 }
 
 .navbar {
